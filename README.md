@@ -56,8 +56,9 @@ This project is a work in progress, with the following planning efforts on the t
   - [Build & Test Planning](planning/build-and-test-planning.md) - Needs development.
   - [Deploy & Monitor Planning](planning/deploy-and-monitor-planning.md) - Needs development.
   - [GTM & Sustainment](planning/go-to-market-and-sustainment.md) - Needs development.
-
+- [Website](http://union.fashion) - We need a website for union fashion.
+- [Twitter](unionfashionapi) - We have a Twitter account.
 We are in the initial planning stages for Union Fashion's digital transformation, and move to an API-first way of doing business, allowing the business to operate more as an online platform, going beyond traditional e-commerce.
 
 ## Support
-If you have any questions or comments you can [submit a GitHub issue for this repository](https://github.com/union-fashion/home/issues), or email [mail@union.fashion](mailto:mail@union.fashion) for a more private channel of discussion.
+If you have any questions or comments you can [submit a GitHub issue for this repository](https://github.com/union-fashion/home/issues), or email [mail@union.fashion](mailto:mail@union.fashion) for a more private channel of discussion. If there are tasks to be accomplished, go ahead and add as an issue, and either complete it yourself, or leave open for assigning to someone else.
