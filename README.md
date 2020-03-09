@@ -26,26 +26,26 @@ Union are not only looking to power their themselves through use of an API first
 
 Before diving into and explaining Union Fashion it’s important to understand the structure of the business and the requirements of key stakeholders/teams.
 
-- Robert Brown, Chief Executive Officer - Looking for a good methodology to be followed on the technical front. Keen to ensure tech used within Union Fashion is consolidated. Wants to use company’s relative small size to ensure they are agile, early adopters and are providing a marketing leading online/app experience.
-- Jeff Jones, Vice President Engineering - Looking for a solution which will help with a modern microservices approach. Knows that an individual, autonomous approach will mean their APIs are easy to integrate and reuse. Looking to solve the collaboration aspect between teams to ensure all engineering teams can depend upon each others solutions reliably.
-  - Susan Todd, QA Lead - Looking to ensure integrity across all Union’s systems. Wants to be able to create integrated testing flows to join up the work of front/back end teams to verify end use cases as well as test parts of the system in isolation. Needs a CI solution and a way to monitor these flows.
+- **Robert Brown, Chief Executive Officer** - Looking for a good methodology to be followed on the technical front. Keen to ensure tech used within Union Fashion is consolidated. Wants to use company’s relative small size to ensure they are agile, early adopters and are providing a marketing leading online/app experience.
+- **Jeff Jones, Vice President Engineering ([Kin Lane](https://github.com/kinlane))** - Looking for a solution which will help with a modern microservices approach. Knows that an individual, autonomous approach will mean their APIs are easy to integrate and reuse. Looking to solve the collaboration aspect between teams to ensure all engineering teams can depend upon each others solutions reliably.
+  - **Susan Todd, QA Lead** - Looking to ensure integrity across all Union’s systems. Wants to be able to create integrated testing flows to join up the work of front/back end teams to verify end use cases as well as test parts of the system in isolation. Needs a CI solution and a way to monitor these flows.
     - Team 3 QA engineers
-  - Alex Wood, Front End Lead - Alex would like to avoid several typical scenarios: handover of APIs from front to back end being complicated - outdated documentation, old versioning. For new developers joining the team Alex needs them to be able to consume and start working with their APIs right away. Looking to have input on the tests for APIs ensuring they meet their use cases moving forward.
+  - **Alex Wood, Front End Lead** - Alex would like to avoid several typical scenarios: handover of APIs from front to back end being complicated - outdated documentation, old versioning. For new developers joining the team Alex needs them to be able to consume and start working with their APIs right away. Looking to have input on the tests for APIs ensuring they meet their use cases moving forward.
     - Team 10 FE engineers
-  - Kim Oliver, Back End Lead - Kim would like her team to spend more time building and progressing their roadmaps than worrying about documentation, debugging issues with the front end team and would like to ensure a consistent approach to how new APIs are developed and made available for the business.
+  - **Kim Oliver, Back End Lead** - Kim would like her team to spend more time building and progressing their roadmaps than worrying about documentation, debugging issues with the front end team and would like to ensure a consistent approach to how new APIs are developed and made available for the business.
     - Team 6 BE engineers
-- Holly Statham, VP Sales  - Shared objectives of being able to demonstrate how easy Union’s APIs are to pick up and use through both demos and sales material. Having access to source of truth.
+- **Holly Statham, VP Sales**  - Shared objectives of being able to demonstrate how easy Union’s APIs are to pick up and use through both demos and sales material. Having access to source of truth.
   - Team 3 sales representatives
-- Tom Hill, VP Sales - Shared objectives of being able to demonstrate how easy Union’s APIs are to pick up and use through both demos and sales material. Having access to source of truth.
+- **Tom Hill, VP Sales** - Shared objectives of being able to demonstrate how easy Union’s APIs are to pick up and use through both demos and sales material. Having access to source of truth.
   - Team 6 marketing
 
 ## Services
 These are the initial services being developed to support Union Fashion business operations, providing the core digital services needed to sell products to our customers, and support our on and offline business operations.
 
-- Products - Defining all of the products that Union Fashion offers.
-- Orders - Allows for the ordering of Union Fashion products online.
-- Users - Defines users who engage with the Union Fashion platform.
-- Search - Provides a universal search for products, orders, and users.
+- [Products](https://github.com/union-fashion/products) - Defining all of the products that Union Fashion offers.
+- [Orders](https://github.com/union-fashion/orders) - Allows for the ordering of Union Fashion products online.
+- [Users](https://github.com/union-fashion/users) - Defines users who engage with the Union Fashion platform.
+- [Search](https://github.com/union-fashion/search) - Provides a universal search for products, orders, and users.
 
 Additional services will be defined and added to the list as part of future planning sessions. This provides the base foundation for the Union Fashion platform, driving web, mobile, device applications, as well as other integrations.
 
