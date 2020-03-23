@@ -1,7 +1,7 @@
 # Union Fashion
 
 ## Why?
-<img src="https://avatars0.githubusercontent.com/u/61293199?s=200&v=4" align="right" width="150">
+<img src="https://avatars0.githubusercontent.com/u/61293199?s=200&v=4" align="right" width="250">
 Currently we have no way of showcasing Postman as a complete platform. We may talk about individual features, or a specific flow of features that contribute to a practice such as automated testing.
 
 By creating a demo company, this allows us to configure an instance of Postman in a best practice way, showcasing how the platform can be used for API development in an end-to-end fashion.
