@@ -1,7 +1,7 @@
 # Union Fashion
 
 ## Why?
-
+<img src="https://avatars0.githubusercontent.com/u/61293199?s=200&v=4" align="right" width="250">
 Currently we have no way of showcasing Postman as a complete platform. We may talk about individual features, or a specific flow of features that contribute to a practice such as automated testing.
 
 By creating a demo company, this allows us to configure an instance of Postman in a best practice way, showcasing how the platform can be used for API development in an end-to-end fashion.
@@ -27,7 +27,7 @@ Union are not only looking to power their themselves through use of an API first
 Before diving into and explaining Union Fashion it’s important to understand the structure of the business and the requirements of key stakeholders/teams who will be defining and delivering the APIs that drive Union Fashion.
 
 - **Robert Brown, Chief Executive Officer** - Looking for a good methodology to be followed on the technical front. Keen to ensure tech used within Union Fashion is consolidated. Wants to use company’s relative small size to ensure they are agile, early adopters and are providing a marketing leading online/app experience.
-- **Jeff Jones, Vice President Engineering ([Kin Lane](https://github.com/kinlane))** - Looking for a solution which will help with a modern microservices approach. Knows that an individual, autonomous approach will mean their APIs are easy to integrate and reuse. Looking to solve the collaboration aspect between teams to ensure all engineering teams can depend upon each others solutions reliably.
+- **Jeff Jones, Vice President Engineering** - Looking for a solution which will help with a modern microservices approach. Knows that an individual, autonomous approach will mean their APIs are easy to integrate and reuse. Looking to solve the collaboration aspect between teams to ensure all engineering teams can depend upon each others solutions reliably.
   - **Susan Todd, QA Lead** - Looking to ensure integrity across all Union’s systems. Wants to be able to create integrated testing flows to join up the work of front/back end teams to verify end use cases as well as test parts of the system in isolation. Needs a CI solution and a way to monitor these flows.
     - Team 3 QA engineers
   - **Alex Wood, Front End Lead** - Alex would like to avoid several typical scenarios: handover of APIs from front to back end being complicated - outdated documentation, old versioning. For new developers joining the team Alex needs them to be able to consume and start working with their APIs right away. Looking to have input on the tests for APIs ensuring they meet their use cases moving forward.
