@@ -42,10 +42,11 @@ Before diving into and explaining Union Fashion it’s important to understand t
 ## Services
 These are the initial services being developed to support Union Fashion business operations, providing the core digital services needed to sell products to our customers, and support our on and offline business operations.
 
-- [Products](https://github.com/union-fashion/products) - Defining all of the products that Union Fashion offers.
-- [Orders](https://github.com/union-fashion/orders) - Allows for the ordering of Union Fashion products online.
-- [Users](https://github.com/union-fashion/users) - Defines users who engage with the Union Fashion platform.
-- [Search](https://github.com/union-fashion/search) - Provides a universal search for products, orders, and users.
+- **Products** - ([Repo](https://github.com/union-fashion/products)) ([Docs](https://documenter.getpostman.com/view/10394726/SzS2xojt?version=latest)) - Defining all of the products that Union Fashion offers.
+- **Orders** - ([Repo](https://github.com/union-fashion/orders)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXzLu?version=latest))- Allows for the ordering of Union Fashion products online.
+- **Baskets** - ([Repo](https://github.com/union-fashion/baskets)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXzVh?version=latest)) - Allows for the ordering of Union Fashion products online.
+- **Users** - ([Repo](https://github.com/union-fashion/users)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXzaC?version=latest)) - Defines users who engage with the Union Fashion platform.
+- **Search** - ([Repo](https://github.com/union-fashion/search)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXza6?version=latest))- Provides a universal search for products, orders, and users.
 - [web](https://github.com/union-fashion/website) - Provides a universal search for products, orders, and users.
 
 Additional services will be defined and added to the list as part of future planning sessions. This provides the base foundation for the Union Fashion platform, driving web, mobile, device applications, as well as other integrations.
@@ -74,6 +75,7 @@ To support API operations at Union Fashion, we are using the following infrastru
 - **AWS DynamoDB** - For simpler data APIs we are using AWS DynamoDB for the persistent data storage behind APIs, allowing for simple NoSQL data storage for each individual APIs.
 - **AWS RDS Aurora** - For more complex data APIs we are using AWS RDS Aurora for persistent storage behind APIs, allowing for more complex relational data storage for each API.
 - **AWS Lambda** - For the serverless compute layer for many APIs we are using Lambda as the scalable power behind each API, allowing us to scale APIs at the most atopic level.
+- **AWS S3** - Using AWS S3 for the storage of all images, videos, documents, and other heavy objects that are made available via Union Fashion APIs, giving each API it's own object store.
 - **AWS Cloudtrail** - We are using AWS CloudTrail for the logging layer behind each API, gathering the exhaust of the database, storage, compute, and gateway layers of the APIs.
 - **CloudFlare** - We are using CloudFlare as the DNS and certificate provider behind Union Fashion, providing addressing and encryption for all of the APIs being delivered.
 
