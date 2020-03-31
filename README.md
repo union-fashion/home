@@ -43,11 +43,10 @@ Before diving into and explaining Union Fashion it’s important to understand t
 These are the initial services being developed to support Union Fashion business operations, providing the core digital services needed to sell products to our customers, and support our on and offline business operations.
 
 - **Products** - ([Repo](https://github.com/union-fashion/products)) ([Docs](https://documenter.getpostman.com/view/10394726/SzS2xojt?version=latest)) - Defining all of the products that Union Fashion offers.
-- **Orders** - ([Repo](https://github.com/union-fashion/orders)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXzLu?version=latest))- Allows for the ordering of Union Fashion products online.
+- **Orders** - ([Repo](https://github.com/union-fashion/orders)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXzLu?version=latest)) - Allows for the ordering of Union Fashion products online.
 - **Baskets** - ([Repo](https://github.com/union-fashion/baskets)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXzVh?version=latest)) - Allows for the ordering of Union Fashion products online.
 - **Users** - ([Repo](https://github.com/union-fashion/users)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXzaC?version=latest)) - Defines users who engage with the Union Fashion platform.
-- **Search** - ([Repo](https://github.com/union-fashion/search)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXza6?version=latest))- Provides a universal search for products, orders, and users.
-- [web](https://github.com/union-fashion/website) - Provides a universal search for products, orders, and users.
+- **Search** - ([Repo](https://github.com/union-fashion/search)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXza6?version=latest)) - Provides a universal search for products, orders, and users.
 
 Additional services will be defined and added to the list as part of future planning sessions. This provides the base foundation for the Union Fashion platform, driving web, mobile, device applications, as well as other integrations.
 
