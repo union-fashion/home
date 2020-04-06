@@ -53,13 +53,13 @@ Additional services will be defined and added to the list as part of future plan
 ## Planning
 This project is a work in progress, with the following planning efforts on the table. You can join in via submitting GitHub issues via this repository, or for any of the individual services being developed.
 
-- [Initial Planning](planning/initial-planning.md) ([Video](https://www.youtube.com/watch?v=iq3ZMQ6f_Vg&list=PLM-7VG-sgbtAR_Z2q_a2hAT4St7nU9SoQ&index=4&t=0s))- Getting the ball rolling with an API-first approach to development.
-  - [Build & Test Planning](planning/build-and-test-planning.md) ([Video](https://www.youtube.com/watch?v=Op1Xep0j5s0&list=PLM-7VG-sgbtAR_Z2q_a2hAT4St7nU9SoQ&index=5&t=117s)) - In planning phase currently, determining the process for how we will be building and testing our infrastructure.
-  - [Deploy & Monitor Planning](planning/deploy-and-monitor-planning.md) - In planning phase currently, shaping how each team will be delivering their API infrastructure across the organization.
-  - [GTM & Sustainment](planning/go-to-market-and-sustainment.md) -In planning phase currently, and helping make sure we have a formal approach to how we are going living with our infrastructure.
-- [Website](http://union.fashion) - We need a website for union fashion that is API-first, helping make sure we are using our own APIs for all aspects of the Union Fashion operations, and they are not just a side project.
-- [Developer Portal](http://developer.union.fashion) - Publishing a portal for Union Fashion, providing a dedicated area for developers to find all the essential building blocks of an API platform.
-- [Twitter](unionfashionapi) - We have a Twitter account, we need a strategy for using it as part of the operation of the API and the business they drive
+- [**Initial Planning**](planning/initial-planning.md) ([Webinar Video](https://www.youtube.com/watch?v=iq3ZMQ6f_Vg&list=PLM-7VG-sgbtAR_Z2q_a2hAT4St7nU9SoQ&index=4&t=0s))- Getting the ball rolling with an API-first approach to development.
+  - [**Build & Test Planning**](planning/build-and-test-planning.md) ([Webnar Video](https://www.youtube.com/watch?v=Op1Xep0j5s0&list=PLM-7VG-sgbtAR_Z2q_a2hAT4St7nU9SoQ&index=5&t=117s)) - In planning phase currently, determining the process for how we will be building and testing our infrastructure.
+  - [**Deploy & Monitor Planning**](planning/deploy-and-monitor-planning.md) - In planning phase currently, shaping how each team will be delivering their API infrastructure across the organization.
+  - [**GTM & Sustainment**](planning/go-to-market-and-sustainment.md) -In planning phase currently, and helping make sure we have a formal approach to how we are going living with our infrastructure.
+- [**Website**](http://union.fashion) - We need a website for union fashion that is API-first, helping make sure we are using our own APIs for all aspects of the Union Fashion operations, and they are not just a side project.
+- [**Developer Portal**](http://developer.union.fashion) - Publishing a portal for Union Fashion, providing a dedicated area for developers to find all the essential building blocks of an API platform.
+- [**Twitter**](unionfashionapi) - We have a Twitter account, we need a strategy for using it as part of the operation of the API and the business they drive
 
 We are in the initial planning stages for Union Fashion's digital transformation, and move to an API-first way of doing business, allowing the business to operate more as an online platform, going beyond traditional e-commerce.
 
@@ -83,7 +83,7 @@ To support API operations at Union Fashion, we are using the following infrastru
 
 This represents all of the infrastructure currently in use across APIs. Teams are not restricted to using just these infrastructure components, but they are required to submit a GitHub issue request the usage of a new service or tool, and making sure it is added to this list before an API moves into production. Visit the platform infrastructure page for more details on how this infrastructure is being used, or [the infrastructure workspace for accessing the collection for each of these APIs](https://union-fashion.postman.co/workspaces/64b778d3-9cc1-4454-b127-3565cc742288/collections).
 
-### API Life Cycle ([Details](/life-cycle.md)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYbxGrc?version=latest))
+### API Life Cycle ([Details](/life-cycle/index.md)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYbxGrc?version=latest))
 Union Fashion employs a standard approach to the life cycle of each API, applying a consistent approach to the delivery, sustainment, and deprecation of APIs across operations.
 
 - **Define** ([Docs](https://documenter.getpostman.com/view/10394726/SzYbxGrc?version=latest#3c968356-0064-43ce-a16e-56c8ab6d5916)) - Providing guidelines for how APIs should be defined.
@@ -111,7 +111,7 @@ Union Fashion employs a standard approach to the life cycle of each API, applyin
 
 You can view [the details for the Union Fashion life cycle](/life-cycle.md), and run the API life cycle collection within any workspace for managing an API--using the collection as guardrails and checklist for the entire API life cycle.
 
-### Governance ([Details](/governance.md)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYUagbA?version=latest))
+### Governance ([Details](/governance/index.md)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYUagbA?version=latest))
 All Union Fashion APIs are governed to ensure consistently and a quality of service across all the APIs coming from distributed teams. Providing consumers with a smoother experience across all of the APIs we are making available internally, to partners, and with the general public.
 
 - **Definition** ([Docs](https://documenter.getpostman.com/view/10394726/SzYUagbA?version=latest#17bdb429-32dd-4ecb-9924-6c4f596461e0)) - The guidelines in place when it comes to defining each API.
