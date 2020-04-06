@@ -186,3 +186,10 @@ This aspect of governance is designed to evaluate the licensing, or lack of lice
  - Is there a license for the API??
  - How many road map entries are there? (COMING SOON) Copy
 
+
+## Reporting
+Finally, reporting is an important aspect of governance, ensuring that the API governance process is being applied to each API, and the outcomes are being recorded, shared, and considered. Providing observability over the API governance process, and always considering how the process can be expanded and improved upon.
+
+ - Visualize the governance outline
+ - Publish governance outline to GitHub
+
