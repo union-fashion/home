@@ -1,7 +1,8 @@
 # API Governance
 This is the current outline for API governance, providing an overview of how APIs are moved forward.
 
-- [**Documentation**](https://documenter.getpostman.com/view/10394726/SzYUagbA?version=latest)## Definition
+- [**Documentation**](https://documenter.getpostman.com/view/10394726/SzYUagbA?version=latest)
+## Definition
 This section is about evaluated the underlying definition of each API, providing working areas and artifacts that can be used across the API life cycle, allowing more of the surface area of API operations to be quantified, measured, and audited.
 
 ### Workspace
@@ -53,6 +54,7 @@ Making sure that each API has an owner, with up to date contact information so t
  - Is there a contact email for the API?
 
 
+
 ## Design
 This area addresses the most common tasks in which most API architects and developers think of when you mention API governance, but in reality it is just one component of a larger API governance strategy. But, the design of an API will dictate much of friction, or lack of friction across every other stop along the API life cycle, making it an important area to be investing in.
 
@@ -93,11 +95,13 @@ Next, we want to drill further into the schema that is used as part of the reque
  - Do all schema properties have descriptions?
 
 
+
 ## Mocks
 Mocked servers make it easier for each area of development, staging, and production of an API to be made more tangible, providing a shared representation of an API that can be used by stakeholders without actually having to have the API be fully deployed, and not being forced to work with live data and infrastructure. Making it mocking a sensible part of the governance of Union Fashion APIs.
 
  - Is there a mock development server?
  - Is there a mock production server?
+
 
 ## Development
 This area is about moving an API from design to reality, ensuring that all the gears are in place for automating the creation of each API. Using the contract for the API to go beyond a static mock representation and deliver a development copy of the API contract, making an API more tangible, moving it towards production.
@@ -105,17 +109,20 @@ This area is about moving an API from design to reality, ensuring that all the g
  - Is there a development server?
  - Is there a development stage defined with the API gateway? (COMING SOON)
 
+
 ## Production
 This is the final stage that moves an API into production, establishing the official version of each API resource. Taking a fully tested API contract and making it available for use by consumers. Making the next iteration of a digital resource available for wider internal, partner, or public access.
 
  - Is there a production server?
  - Is there a production stage defined with the API gateway? (COMING SOON) Copy
 
+
 ## Management
 This section deals with the management of each API, making sure each API is properly gated and only accessible by desired consumers. While also ensuring there is logging, reporting, and suitable amounts visibility into the access of each API being delivered as part of Union Fashion operations.
 
  - Is there an API plan?
  - Is there an API key?
+
 
 ## Testing
 This area is for evaluating the testing of each API across all areas required as part of governance. Working to mamke sure that as much of the surface area of the API is tested as we possibly can.
@@ -139,6 +146,7 @@ This area is for evaluating the testing of each API across all areas required as
  - Did the API pass the performance tests?
 
 
+
 ## Monitoring
 This area is to help ensure there is the proper monitoring setup for the different collections that exist, ensuring that there is regular review of the key functions behind delivering this API.
 
@@ -146,6 +154,7 @@ This area is to help ensure there is the proper monitoring setup for the differe
  - Is there a contract testing collection monitor?
  - Is there a performance testing collection monitor?
  - Is there a security testing collection monitor?
+
 
 ## Support
 These are the questions asked about the support of an API, ensuring that there are the proper support mechanisms in place.
@@ -168,6 +177,7 @@ Relabeling things from the road map that get delivered, providing a change log o
 
  - How many change log entries are there? (COMING SOON)
  - Is GitHub issues setup for tracking change log?
+
 
 
 ## LIcense
