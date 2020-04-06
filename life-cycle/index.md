@@ -206,14 +206,14 @@ The logging for the RDS database backend, providing the details on all usage of 
  - Download Log File Portion - Needs a description.
 
 ### Tags
-undefined
+Needs a description.
 
  - Remove Tags From Resource - Needs a description.
  - List Tags For Resource - Needs a description.
  - Add Tags To Resource - Needs a description.
 
 ### Restore
-undefined
+Needs a description.
 
  - Restore DB Instance From S3 - Needs a description.
  - Restore DB Instance To Point In Time - Needs a description.
@@ -260,7 +260,7 @@ This section if for managing the tagging applied to buckets.
  - Delete - Needs a description.
 
 ### Objects
-undefined
+Needs a description.
 
 ### Uploads
 Needs a description.
@@ -330,7 +330,7 @@ Managing the usage plans in which APIs operate under, defining how API can be us
  - Add Usage Plan for API - Needs a description.
 
 ### Stages
-undefined
+Needs a description.
 
  - By Name Stage - Needs a description.
  - Create Stage - Needs a description.
@@ -363,7 +363,7 @@ This pulls the logs for API activity from the AWS API Gateway, providing a trail
  - Trails Cop - Needs a description.
 
 ### Central Tagging (AWS API CloudTrail)
-undefined
+Needs a description.
 
  - Add Tags - Needs a description.
  - List Tags - Needs a description.
@@ -397,7 +397,7 @@ This is for managing encryption used as part of API operations, helping work wit
 This manages the DNS for all of the APIs, allowing for custom addressing across all resources.
 
 ### Analytics (CLoudflare)
-undefined
+Needs a description.
 
  - Table - Needs a description.
  - By time - Needs a description.
