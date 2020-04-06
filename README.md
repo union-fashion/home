@@ -12,7 +12,7 @@ Everyone is familiar with the e-commerce example and how a website/app selling f
 
 Using a demo space is key to this as it allows us to show Postman working in the real world, and brings our story/slides/pitch to life with a real world use case.
 
-## Overview
+## Overview ([Video Walk-Through](https://www.youtube.com/watch?v=E2_r1jrZ2Ec))
 
 Union Fashion is an online-only fashion retailer looking to disrupt the fashion market. Their products appeal to fashionistas and their online experience is at the heart of how they’d like to push the boundaries and become a market leader.
 
@@ -83,7 +83,7 @@ To support API operations at Union Fashion, we are using the following infrastru
 
 This represents all of the infrastructure currently in use across APIs. Teams are not restricted to using just these infrastructure components, but they are required to submit a GitHub issue request the usage of a new service or tool, and making sure it is added to this list before an API moves into production. Visit the platform infrastructure page for more details on how this infrastructure is being used, or [the infrastructure workspace for accessing the collection for each of these APIs](https://union-fashion.postman.co/workspaces/64b778d3-9cc1-4454-b127-3565cc742288/collections).
 
-### API Life Cycle ([Details](/life-cycle/index.md)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYbxGrc?version=latest))
+### API Life Cycle ([Details](/life-cycle/index.md)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYbxGrc?version=latest)) ([Video Walk-Through](https://www.youtube.com/watch?v=5fLepBVFDiU))
 Union Fashion employs a standard approach to the life cycle of each API, applying a consistent approach to the delivery, sustainment, and deprecation of APIs across operations.
 
 - **Define** ([Docs](https://documenter.getpostman.com/view/10394726/SzYbxGrc?version=latest#3c968356-0064-43ce-a16e-56c8ab6d5916)) - Providing guidelines for how APIs should be defined.
@@ -111,7 +111,7 @@ Union Fashion employs a standard approach to the life cycle of each API, applyin
 
 You can view [the details for the Union Fashion life cycle](/life-cycle.md), and run the API life cycle collection within any workspace for managing an API--using the collection as guardrails and checklist for the entire API life cycle.
 
-### Governance ([Details](/governance/index.md)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYUagbA?version=latest))
+### Governance ([Details](/governance/index.md)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYUagbA?version=latest)) ([Video Walk-Through](https://www.youtube.com/watch?v=eFYgmMbOLnc))
 All Union Fashion APIs are governed to ensure consistently and a quality of service across all the APIs coming from distributed teams. Providing consumers with a smoother experience across all of the APIs we are making available internally, to partners, and with the general public.
 
 - **Definition** ([Docs](https://documenter.getpostman.com/view/10394726/SzYUagbA?version=latest#17bdb429-32dd-4ecb-9924-6c4f596461e0)) - The guidelines in place when it comes to defining each API.
@@ -130,6 +130,17 @@ You can [view the details for the governance of Union Fashion APIs](/governance.
 
 ## Philosophy
 Union Fashion is intended to be a reference implementation showing how to deliver APIs across the a business implementation most readers will find relatable. Our goal is to do as much of the work on Union Fashion out in the open using GitHub and Postman so that others can follow along. Using Union Fashion as a live sandbox for driving the API-first conversation, helping us center our efforts on a single point of reference across storytelling, workshops, webinars, and other channels.
+
+## Why Does this Matter?
+APIs are critical to the Union Fashion experience, helping us establish ourselves as the next generation of e-commerce fashion provider.
+
+- Allow for more easier publishing of data, content, and algorithms to known web and mobile applications.
+- Ensure that data content, and algorithms are immediately available for publishing to unknown applications.
+- More easily integrate all data, content, and algorithms into external 3rd party and partner systems.
+- Reduce overall overhead and costs involved with delivering new web, mobile, device, and network applications.
+- Increase the overall quality and velocity of new features and functionality being delivered across applications.
+
+There are many more benefits of doing APIs, and going API-First, but these five areas reflect how we will be making a meaningful shift in how Union Fashion conducts business.
 
 ## Support
 If you have any questions or comments you can [submit a GitHub issue for this repository](https://github.com/union-fashion/home/issues), or email [mail@union.fashion](mailto:mail@union.fashion) for a more private channel of discussion. If there are tasks to be accomplished, go ahead and add as an issue, and either complete it yourself, or leave open for assigning to someone else.
