@@ -48,8 +48,14 @@ This area is for managing collections derived from the contract for the API bein
 
 We will be adding other collections to this list as they are developed. WE are anticipating needing integration testing and workflow collections, but are failry cnfident there will be other types of collections to emerge as our approach to delivering APIs mature.
 
-### 111Maintenance
+### Maintenance
 These are some maintenance requests making it easier to work with coolection in use across the delivery of this API. Storing these requests away for when they are needed to qucikly make sense of what is going on with collections that are available in this workspace.
+
+ - All Collections - Needs a description.
+ - Single Collection  - Needs a description.
+ - Create Collection - Needs a description.
+ - Update Collection - Needs a description.
+ - Delete Collection - Needs a description.
 
  - Record Collections in Environment - Needs a description.
 
@@ -68,8 +74,14 @@ Eventually we made add a middle stage between development and production, but fo
 
 Each API should have these four environments, providing an up to date snapshot of this API in these four states. Helping interact with the API while in development as well as in production, but also helping to push forward the API in a consistent way using API, and by having a coherent API governance strategy to ensure API behavior is consistent across the organizaiton.
 
-### 111Maintenance
+### Maintenance
 These are some maintenance requests making it easier to work with environments in use across the delivery of this API. Storing these requests away for when they are needed to qucikly make sense of what is going on with environments that are available in this workspace.
+
+ - Environments - Needs a description.
+ - Environment - Needs a description.
+ - Environment - Needs a description.
+ - Environment - Needs a description.
+ - Environment - Needs a description.
 
  - Record Environments in  Life Cycle Environment - Needs a description.
  - Pull a list of life cycle environment variables - Needs a description.
@@ -77,20 +89,45 @@ These are some maintenance requests making it easier to work with environments i
 ### Tagging
 This is an aggregate of all of the tagging in use across the infrastructure used to manage this API providing a look at the common vocabulary that is in use as part of operating APIs, helping better define boundaries between APIs across share infrastructure.
 
-### 111Database (AWS RDS)
+### Database (AWS RDS)
 These are tagging resources for use on AWS RDS databases used to power this API.
 
-### 111Compute (AWS Lambda)
+ - Remove Tags From Resource - Needs a description.
+ - List Tags For Resource - Needs a description.
+ - Add Tags To Resource - Needs a description.
+
+### Compute (AWS Lambda)
 This is the tagging layer for this API, providing information about all script activity.
 
-### 111Storage (AWS S3)
+ - List Tags - Needs a description.
+ - Tag Resource - Needs a description.
+ - Untag Resource - Needs a description.
+
+### Storage (AWS S3)
 This is the tagging layer for AWS S3, providing a tagging vocabulary for using across objects made available throuigh this API.
 
-### 111Logging (AWS API CloudTrail)
+### Bucket Tagging
+This section if for managing the tagging applied to buckets.
+
+### Object Tagging
+Needs a description.
+
+
+### Logging (AWS API CloudTrail)
 These are tagging requests available for defining the logging layer underneath the operation of the API.
 
-### 111Support (GitHub)
+ - Add Tags - Needs a description.
+ - List Tags - Needs a description.
+ - Remove Tags - Needs a description.
+
+### Support (GitHub)
 This is for managing the GitHub labels applied to different layers of the support infrastructure for this API.
+
+ - Labels for Repo - Needs a description.
+ - New Label - Needs a description.
+ - Update Label - Needs a description.
+ - Single Label - Needs a description.
+ - Delete Label - Needs a description.
 
 
  - Create New API
@@ -211,8 +248,12 @@ This is one of the storage infrastructure opportunities that exist for Union fas
 ### Buckets
 This section for managing AWS S3 buckets that are used as part of the operation of this API.
 
-### 111Tagging
+### Tagging
 This section if for managing the tagging applied to buckets.
+
+ - Bucket Tags - Needs a description.
+ - Delete Bucket Tag - Needs a description.
+ - Bucket Tag - Needs a description.
 
  - List - Needs a description.
  - Create - Needs a description.
@@ -221,11 +262,22 @@ This section if for managing the tagging applied to buckets.
 ### Objects
 undefined
 
-### 111Uploads
+### Uploads
 Needs a description.
 
-### 111Tagging
+ - Create Multipart - Needs a description.
+ - Multipart - Needs a description.
+ - Complete Multipart - Needs a description.
+ - Part - Needs a description.
+ - Part Copy - Needs a description.
+ - Abort Multipart - Needs a description.
+
+### Tagging
 Needs a description.
+
+ - Object Tagging - Needs a description.
+ - Tagging - Needs a description.
+ - Delete Object Tagging - Needs a description.
 
  - Objects - Needs a description.
  - Object - Needs a description.
