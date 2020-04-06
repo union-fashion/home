@@ -96,26 +96,26 @@ Next, we want to drill further into the schema that is used as part of the reque
 ## Mocks
 Mocked servers make it easier for each area of development, staging, and production of an API to be made more tangible, providing a shared representation of an API that can be used by stakeholders without actually having to have the API be fully deployed, and not being forced to work with live data and infrastructure. Making it mocking a sensible part of the governance of Union Fashion APIs.
 
- - Is there a mock development server? - undefined
- - Is there a mock production server? - undefined
+ - Is there a mock development server?
+ - Is there a mock production server?
 
 ## Development
 This area is about moving an API from design to reality, ensuring that all the gears are in place for automating the creation of each API. Using the contract for the API to go beyond a static mock representation and deliver a development copy of the API contract, making an API more tangible, moving it towards production.
 
- - Is there a development server? - undefined
- - Is there a development stage defined with the API gateway? (COMING SOON) - undefined
+ - Is there a development server?
+ - Is there a development stage defined with the API gateway? (COMING SOON)
 
 ## Production
 This is the final stage that moves an API into production, establishing the official version of each API resource. Taking a fully tested API contract and making it available for use by consumers. Making the next iteration of a digital resource available for wider internal, partner, or public access.
 
- - Is there a production server? - undefined
- - Is there a production stage defined with the API gateway? (COMING SOON) Copy - undefined
+ - Is there a production server?
+ - Is there a production stage defined with the API gateway? (COMING SOON) Copy
 
 ## Management
 This section deals with the management of each API, making sure each API is properly gated and only accessible by desired consumers. While also ensuring there is logging, reporting, and suitable amounts visibility into the access of each API being delivered as part of Union Fashion operations.
 
- - Is there an API plan? - undefined
- - Is there an API key? - undefined
+ - Is there an API plan?
+ - Is there an API key?
 
 ## Testing
 This area is for evaluating the testing of each API across all areas required as part of governance. Working to mamke sure that as much of the surface area of the API is tested as we possibly can.
@@ -139,13 +139,13 @@ This area is for evaluating the testing of each API across all areas required as
  - Did the API pass the performance tests?
 
 
-## Monitornig
+## Monitoring
 This area is to help ensure there is the proper monitoring setup for the different collections that exist, ensuring that there is regular review of the key functions behind delivering this API.
 
 
- - Is there a contract testing collection monitor? - undefined
- - Is there a performance testing collection monitor? - undefined
- - Is there a security testing collection monitor? - undefined
+ - Is there a contract testing collection monitor?
+ - Is there a performance testing collection monitor?
+ - Is there a security testing collection monitor?
 
 ## Support
 These are the questions asked about the support of an API, ensuring that there are the proper support mechanisms in place.
@@ -173,6 +173,6 @@ Relabeling things from the road map that get delivered, providing a change log o
 ## LIcense
 This aspect of governance is designed to evaluate the licensing, or lack of licensing that exists around each API. Making sure the API, and other aspects of operations are properly licensed for consumption by partner or 3rd party developers. Making sure that all APIs are legally protected, and reflect our wider API operational strategy.
 
- - Is there a license for the API?? - undefined
- - How many road map entries are there? (COMING SOON) Copy - undefined
+ - Is there a license for the API??
+ - How many road map entries are there? (COMING SOON) Copy
 
