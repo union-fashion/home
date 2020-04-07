@@ -42,11 +42,13 @@ Before diving into and explaining Union Fashion it’s important to understand t
 ## APIs
 These are the initial APIs being developed to support Union Fashion business operations, providing the core digital services needed to sell products to our customers, and support our on and offline business operations.
 
-- **Products** - ([Repo](https://github.com/union-fashion/products)) ([Docs](https://documenter.getpostman.com/view/10394726/SzS2xojt?version=latest)) - Defining all of the products that Union Fashion offers.
-- **Orders** - ([Repo](https://github.com/union-fashion/orders)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXzLu?version=latest)) - Allows for the ordering of Union Fashion products online.
-- **Baskets** - ([Repo](https://github.com/union-fashion/baskets)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXzVh?version=latest)) - Allows for the ordering of Union Fashion products online.
-- **Users** - ([Repo](https://github.com/union-fashion/users)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXzaC?version=latest)) - Defines users who engage with the Union Fashion platform.
-- **Search** - ([Repo](https://github.com/union-fashion/search)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXza6?version=latest)) - Provides a universal search for products, orders, and users.
+- **Products** - ([Workspace](https://union-fashion.postman.co/workspaces/2990215b-b3e0-4431-b2ca-80cf01274a25/apis)) ([Repo](https://github.com/union-fashion/products)) ([Docs](https://documenter.getpostman.com/view/10394726/SzS2xojt?version=latest)) - Defining all of the products that Union Fashion offers.
+- **Orders** - ([Workspace](https://union-fashion.postman.co/workspaces/67f9508f-a375-4a65-8450-b7f0aabc4cc4/apis)) ([Repo](https://github.com/union-fashion/orders)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXzLu?version=latest)) - Allows for the ordering of Union Fashion products online.
+- **Baskets** - ([Workspace](https://union-fashion.postman.co/workspaces/a396c446-3ecd-48c7-8df1-e2fee10f129f/apis)) ([Repo](https://github.com/union-fashion/baskets)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXzVh?version=latest)) - Allows for the ordering of Union Fashion products online.
+- **Users** - ([Workspace](https://union-fashion.postman.co/workspaces/7b9395cc-f700-4526-aeff-6825965e42d7/apis)) ([Repo](https://github.com/union-fashion/users)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXzaC?version=latest)) - Defines users who engage with the Union Fashion platform.
+- **Search** - ([Workspace](https://union-fashion.postman.co/workspaces/ea93d961-16cb-4a8e-bbe0-7cdb1e5b62fc/apis)) ([Repo](https://github.com/union-fashion/search)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYXXza6?version=latest)) - Provides a universal search for products, orders, and users.
+
+* Workspaces require authentication!
 
 Additional services will be defined and added to the list as part of future planning sessions. This provides the base foundation for the Union Fashion platform, driving web, mobile, device applications, as well as other integrations.
 
@@ -55,7 +57,7 @@ This project is a work in progress, with the following planning efforts on the t
 
 - [**Initial Planning**](planning/initial-planning.md) ([Webinar Video](https://www.youtube.com/watch?v=iq3ZMQ6f_Vg&list=PLM-7VG-sgbtAR_Z2q_a2hAT4St7nU9SoQ&index=4&t=0s))- Getting the ball rolling with an API-first approach to development.
   - [**Build & Test Planning**](planning/build-and-test-planning.md) ([Webnar Video](https://www.youtube.com/watch?v=Op1Xep0j5s0&list=PLM-7VG-sgbtAR_Z2q_a2hAT4St7nU9SoQ&index=5&t=117s)) - In planning phase currently, determining the process for how we will be building and testing our infrastructure.
-  - [**Deploy & Monitor Planning**](planning/deploy-and-monitor-planning.md) - In planning phase currently, shaping how each team will be delivering their API infrastructure across the organization.
+  - [**Deploy & Monitor Planning**](planning/deploy-and-monitor-planning.md) (April 22nd) - In planning phase currently, shaping how each team will be delivering their API infrastructure across the organization.
   - [**GTM & Sustainment**](planning/go-to-market-and-sustainment.md) -In planning phase currently, and helping make sure we have a formal approach to how we are going living with our infrastructure.
 - [**Website**](http://union.fashion) - We need a website for union fashion that is API-first, helping make sure we are using our own APIs for all aspects of the Union Fashion operations, and they are not just a side project.
 - [**Developer Portal**](http://developer.union.fashion) - Publishing a portal for Union Fashion, providing a dedicated area for developers to find all the essential building blocks of an API platform.
