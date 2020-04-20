@@ -9,7 +9,7 @@ This is a draft outline for phase one of producing four separate services to dri
 * **Change Log** - Evaluate change log activity for each service, making sure you are in tune with what has been happening across an API.
 * **Sync** - Ensure that latest version is synced to GitHub, keeping all changes made in Postman or on GitHub reflected in both locations.
 
-## Actual Deployment of Each API
+## Deployment
 
 * **Basic NoSQL (AWS)** - Providing a standardized and repeatable way to deploy basic NoSQL backed API resources.
     * **OpenAPI** - Leveraging the OpenAPI contract to define, prepare, and build each API being deployed.
