@@ -3,7 +3,7 @@
 This is the overview of how Union Fashion got to where they realized they needed to go API-First.
 
 ## Web
-
+<img src="blob:https://assets.adobe.com/4fb37ac0-af8a-448e-b830-784b9994c29a" align="right" width="200">
 **Carrie** has been the lead on the Union Fashion website since it was first built 20 years ago.
 
 - Leverages direct database connections to access product and order data for website.
