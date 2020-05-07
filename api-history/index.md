@@ -25,7 +25,7 @@ This is the overview of how Union Fashion got to point they realized they needed
 
 ## Integrations
 
-**Sheila** took over integration for partners and the growing SaaS applications at Union Fashion in 2012 and...
+**Sheila** took over **integrations** for partners and the growing **SaaS applications** at Union Fashion in 2012 and...
 
 - Saw the value of developing RESTful APIs for use by many different partners and developers.
 - Only uses APIs for integrations and avoids database connections and FTP locations for integrations.
@@ -35,7 +35,7 @@ This is the overview of how Union Fashion got to point they realized they needed
 
 ## API Strategy
 
-**Mishka** was hired in 2015 to establish an API strategy and develop a single API platform for Union Fashion and...
+**Mishka** was hired in 2015 to establish an API **strategy** and develop a single API platform for Union Fashion and...
 
 - Believes in API-first, understanding the value of thoughtfully planning APIs before any application is developed.
 - Has worked with the team to craft an API strategy and help evangelize and implement across the company.
@@ -56,7 +56,7 @@ This is the overview of how Union Fashion got to point they realized they needed
 - There is a mix of RESTish, XMLRPC, GraphQL, SOAP, and other design patterns in use at Union Fashion.
 - There are many different levels of reliability when it comes to APIs that are available at Union Fashion.
 
-**Mishka** has revealed that a lack of an API-first approach has led to a much higher overhead in operations.
+**Mishka** has revealed that a lack of an API-first approach has led to a much higher overhead in operations, and has slowed the companies ability to compete.
 
 ## New Projects
 
@@ -64,7 +64,7 @@ This is the overview of how Union Fashion got to point they realized they needed
 
 ### Commerce Widgets
 
-**Taylor** has been tasked with creating a new suite of e-commerce widgets and will be working with **Mishka** to design, as well as...
+**Taylor** has been tasked with creating a new suite of e-commerce **widgets** and will be working with **Mishka** to design, as well as...
 
 - Identifying the OpenAPI definitions for each of the existing APIs that will be used to power widgets.
 - Defining OpenAPI definitions for each of the new APIs that will be need to power widgets.
@@ -74,7 +74,7 @@ This is the overview of how Union Fashion got to point they realized they needed
 
 ### Rewards Mobile Application
 
-**Tim** has been tasked with creating a new mobile rewards application and was asked to work with **Mishka** to design, but...
+**Tim** has been tasked with creating a new **mobile rewards application** and was asked to work with **Mishka** to design, but...
 
 - Feels like **Mishka** is asking for extra work when it comes to API definitions, and believes he can still be API-First by developing an API.
 - Would rather generate his OpenAPI definition from the code he has written to develop the API behind his app.
