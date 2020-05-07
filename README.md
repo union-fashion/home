@@ -133,6 +133,14 @@ You can [view the details for the governance of Union Fashion APIs](/governance.
 ## Philosophy
 Union Fashion is intended to be a reference implementation showing how to deliver APIs across the a business implementation most readers will find relatable. Our goal is to do as much of the work on Union Fashion out in the open using GitHub and Postman so that others can follow along. Using Union Fashion as a live sandbox for driving the API-first conversation, helping us center our efforts on a single point of reference across storytelling, workshops, webinars, and other channels.
 
+## Issues
+We use GitHub issues as the backbone of our feedback loop here at Union Fashion, providing an open, asynchronous, and auditable way of organizing not just issues, but anything that should be tracked as part of Union Fashion operations. Providing a one-stop place you can go to find out what is going on. Here are the relevant tags for drilling into the different dimensions of what is becoming Union Fashion.
+
+- [Enhancements](https://github.com/union-fashion/home/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement) - These are the changes being planned, but not added to the road map as of yet.
+- [Philosophy](https://github.com/union-fashion/home/issues?q=is%3Aissue+is%3Aopen+label%3Aphilosophy) - These are general beliefs that emerge as we are building Union Fashion online.
+- [Road Map](https://github.com/union-fashion/home/issues?q=is%3Aissue+is%3Aopen+label%3Aroad-map) - These are things that are approved for the road map but then need to find a version.
+- [Tasks](https://github.com/union-fashion/home/issues?q=is%3Aissue+is%3Aopen+label%3Atasks) - This is general platform work that needs to occur that may not be part of planned releases.
+
 ## Why Does this Matter?
 APIs are critical to the Union Fashion experience, helping us establish ourselves as the next generation of e-commerce fashion provider.
 
