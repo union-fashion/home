@@ -85,6 +85,13 @@ To support API operations at Union Fashion, we are using the following infrastru
 
 This represents all of the infrastructure currently in use across APIs. Teams are not restricted to using just these infrastructure components, but they are required to submit a GitHub issue request the usage of a new service or tool, and making sure it is added to this list before an API moves into production. Visit the platform infrastructure page for more details on how this infrastructure is being used, or [the infrastructure workspace for accessing the collection for each of these APIs](https://union-fashion.postman.co/workspaces/64b778d3-9cc1-4454-b127-3565cc742288/collections).
 
+### API Workspaces
+Currently each API has its won workspace, but we as we harden our strategy for defining API workspaces we are also establishing a blueprint for more operational level workspaces. Providing collections that can be used to help move all APIs across the API life cycle, while also applying governance.
+
+![alt text](https://kinlane-productions.s3.amazonaws.com/union-fashion/union-fashion-apiops.jpg "Union Fashion APIOpes")
+
+The goal here is to create a higher class of workspaces that can be used to deliver valuable resources and automation to API development teams, helping them be more organized in how they setup their workspaces, but also help them accomplish common tasks with the help of other higher level operational collections.
+
 ### API Life Cycle ([Details](/life-cycle/index.md)) ([Docs](https://documenter.getpostman.com/view/10394726/SzYbxGrc?version=latest)) ([Video Walk-Through](https://www.youtube.com/watch?v=5fLepBVFDiU))
 Union Fashion employs a standard approach to the life cycle of each API, applying a consistent approach to the delivery, sustainment, and deprecation of APIs across operations.
 
