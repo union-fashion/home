@@ -1,6 +1,5 @@
 # The Union Fashion API-First Philosophy
-This is the philosophy of API-first at Union Fashion based upon [our history as a company](https://github.com/union-fashion/home/blob/master/api-history/index.md).
-
+This is the philosophy of API-first at Union Fashion based upon [our history as a company](https://github.com/union-fashion/home/blob/master/api-history/index.md), width [feedback by the core team](https://github.com/union-fashion/home/blob/master/api-first/index.md#team-feedback).
 
 ## TL;DR - If you need a quick summary of the philosophy.
 At Union Fashion we are API-first because it benefits everyone involved.
@@ -24,7 +23,7 @@ At Union Fashion we are API-first because it benefits everyone involved.
 
 API-first makes Union fashion a more agile and effective organization.
 
-## TL;DR - If you need a quick summary of the philosophy.
+## MVP - Where every team should begin.
 We recognize that not everyone will be able to accomplish this the first time out and support a minimal viable edition:
 
 - **[Applications](https://github.com/union-fashion/home/blob/master/api-first/index.md#applications)** - Prioritizing APIs over their applications.
