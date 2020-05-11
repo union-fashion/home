@@ -143,6 +143,7 @@ You are maintaining high quality collections serving various life cycle and gove
 - Each API will possess a single collection dedicated to contract testing.
 - Each API will possess one or many collections dedicated to integration testing.
 - Each API  will possess one or many collections dedicated to workflow testing.
+- Each API definition is synced to GitHub for use throughout the API software lifecycle.
 
 We are working to define and power each stop along the API life cycle with an active collection.
 
