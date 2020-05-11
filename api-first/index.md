@@ -3,6 +3,7 @@ This is the philosophy of API-first at Union Fashion based upon [our history as 
 
 
 ## TL;DR - If you need a quick summary of the philosophy.
+At Union Fashion we are API-first because it benefits everyone involved.
 
 - **Applications** - Prioritizing APIs over their applications.
 - **Teams** - Ensuring everyone has a seat at the table.
@@ -20,6 +21,8 @@ This is the philosophy of API-first at Union Fashion based upon [our history as 
 - **Monitoring** - All tests are run on schedule from regions using monitors.
 - **Collaboration** - Stakeholders are always working together on APIs.
 - **Observability** - The API life cycle is made more tangible using outputs.
+
+API-first makes Union fashion a more agile and effective organization.
 
 ## Verbose Version - If you need a more robust breakdown of API-first.
 
@@ -110,10 +113,10 @@ Examples are necessary for realizing the full potential of collections across th
 ### Environments
 Each API should have a clear set of variables defined for working with each API in a client.
 
-- Secrets - No secrets should exist in collection, relying on environments to apply.
-- Variables - Common variables used across collections should be in environments.
-- Sharing - Environments should be centrally defined and shared across teams.
-- Operational - Environments should help maintain operational state for each API.
+- No secrets should exist in collection, relying on environments to apply.
+- Common variables used across collections should be in environments.
+- Environments should be centrally defined and shared across teams.
+- Environments should help maintain operational state for each API.
 
 Environments are used by developers in clients, and automated using runners and monitors.
 
@@ -126,12 +129,16 @@ You are maintaining high quality collections serving various life cycle and gove
 - Each API will possess one or many collections dedicated to integration testing.
 - Each API  will possess one or many collections dedicated to workflow testing.
 
+We are working to define and power each stop along the API life cycle with an active collection.
+
 ### Mocking
 You are mocking your APIs to simulate behavior before setting up your back-end.
 
 - Leveraging a dedicated RBAC control for delivering mock instances for each API.
 - Ensuring that each collection behind mocks has robust and complete examples.
 - Providing synthetic data for use in examples helping make mock servers useful.
+
+Mocks are used to help speed up the iteration of API development and for driving API testing.
 
 ### Documentation
 Every API should possess up to date and complete documentation for use by consumers.
@@ -185,14 +192,14 @@ Operate your API in as observable manner as you possibly can highlighting the AP
 Every API should be made observability using the existing outputs of API infrastructure.
 
 ## Deployment
-Our API-first philosophy tries to not be prescriptive for API deployment as long as it meets SLA.
+Our API-first philosophy tries to not be prescriptive for API deployment as long as it meets the SLA.
 
 - Union fashion is platform, language, and framework agnostic when it comes to API deployments.
 - Teams should always strive to turn their API deployment practice into a sharable blueprint.
 - Code-first for APIs are an acceptable approach to doing API-first as long as it delivers end results.
 - API-first is about establishing a consistent blueprint for how API resources are used by applications.
 
-Deploy of an API may or may not be part of the API-first process, leaving it up to team to deliver.
+Deploy of an API may or may not be part of the API-first process, leaving it up to team to deliver each API.
 
 ### Deliverables
 Each of these areas proposed should be delivering value to API operations in ways that benefits everyone.
@@ -214,7 +221,7 @@ Each of these areas proposed should be delivering value to API operations in way
 - **Collaboration** - All APIs are developed and delivered in a collaborate way amongst providers and consumers.
 - **Observability** - All APIs are measured using the outputs that are available using existing infrastructure.
 
-API-first is about investing in these areas and building a more collaborate and reliable platform to do business.
+API-first is about investing in these 16 areas, building a more collaborative and reliable platform to do business.
 
 ### Business Outcomes
 There are demonstrable business outcomes for adopting the Union Fashion API-first philosophy by...
@@ -240,7 +247,7 @@ Mishka, the API lead circulated the API-First philosophy across team members.
 
 **Carrie**, Web Lead.
 
-It looks like a lot of thought was put into this.
+**Quote:** "It looks like a lot of thought was put into this."
 
 **Pros:**
 
@@ -256,7 +263,7 @@ It looks like a lot of thought was put into this.
 
 **Don**, Mobile Lead
 
-Seems like easier said than done!
+**Quote:** "Seems like easier said than done!"
 
 **Pros:**
 
@@ -272,7 +279,7 @@ Seems like easier said than done!
 
 **Sheila**, Integrations and Partners
 
-This will make my life considerably easier.
+**Quote:** "This will make my life considerably easier."
 
 **Pros:**
 
@@ -288,7 +295,7 @@ This will make my life considerably easier.
 
 **Taylor**, Widget Developer
 
-I am really enjoying the process and discipline it brings.
+**Quote:** "I am really enjoying the process and discipline it brings."
 
 **Pros:**
 
@@ -304,7 +311,7 @@ I am really enjoying the process and discipline it brings.
 
 **Tim**, Mobile App Developer
 
-It is creating a whole lot more work for me.
+**Quote**: "It is creating a whole lot more work for me."
 
 **Pros:**
 
