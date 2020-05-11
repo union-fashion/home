@@ -24,6 +24,22 @@ At Union Fashion we are API-first because it benefits everyone involved.
 
 API-first makes Union fashion a more agile and effective organization.
 
+## TL;DR - If you need a quick summary of the philosophy.
+We recognize that not everyone will be able to accomplish this the first time out and support a minimal viable edition:
+
+- **[Applications](https://github.com/union-fashion/home/blob/master/api-first/index.md#applications)** - Prioritizing APIs over their applications.
+- **[Teams](https://github.com/union-fashion/home/blob/master/api-first/index.md#teams)** - Ensuring everyone has a seat at the table.
+- **[Workspaces](https://github.com/union-fashion/home/blob/master/api-first/index.md#workspaces)** - Providing a dedicate space to do work.
+- **[Feedback](https://github.com/union-fashion/home/blob/master/api-first/index.md#feedback)** - Baking in a feedback loop by default.
+- **[Specifications](https://github.com/union-fashion/home/blob/master/api-first/index.md#specification)** - Avoid reinventing the wheel with new APIs
+- **[Definitions](https://github.com/union-fashion/home/blob/master/api-first/index.md#definitions)** - Anchoring all APIs in a machine & human readable contract.
+- **[Collections](https://github.com/union-fashion/home/blob/master/api-first/index.md#collections)** - Driving API operations using API contract(s) collections.
+- **[Documentation](https://github.com/union-fashion/home/blob/master/api-first/index.md#documentation)** - Always be publish documentation for APIs.
+- **[Collaboration](https://github.com/union-fashion/home/blob/master/api-first/index.md#collaboration)** - Stakeholders are always working together on APIs.
+- **[Observability](https://github.com/union-fashion/home/blob/master/api-first/index.md#observability)** - The API life cycle is made more tangible using outputs.
+
+This provides a way to get started with the API-first approach with less overhead, focusing on the most important parts.
+
 ## Verbose Version - If you need a more robust breakdown of API-first.
 
 ### Applications
