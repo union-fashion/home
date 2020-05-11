@@ -5,22 +5,22 @@ This is the philosophy of API-first at Union Fashion based upon [our history as 
 ## TL;DR - If you need a quick summary of the philosophy.
 At Union Fashion we are API-first because it benefits everyone involved.
 
-- **Applications** - Prioritizing APIs over their applications.
-- **Teams** - Ensuring everyone has a seat at the table.
-- **Workspaces** - Providing a dedicate space to do work.
-- **Feedback** - Baking in a feedback loop by default.
-- **Specifications** - Avoid reinventing the wheel with new APIs
-- **Definitions** - Anchoring all APIs in a machine & human readable contract.
-- **Collections** - Driving API operations using API contract(s) collections.
-- **Examples** - Providing examples of every operation in use.
-- **Environments** - Abstracting away secrets and variables.
-- **Lifecycle** - Driving the API life cycle from an API contract(s).
-- **Mocking** - Providing a simulated representation of every API.
-- **Documentation** - Always be publish documentation for APIs.
-- **Testing** - There is always testing coverage in place for all APIs.
-- **Monitoring** - All tests are run on schedule from regions using monitors.
-- **Collaboration** - Stakeholders are always working together on APIs.
-- **Observability** - The API life cycle is made more tangible using outputs.
+- **[Applications](https://github.com/union-fashion/home/blob/master/api-first/index.md#applications)** - Prioritizing APIs over their applications.
+- **[Teams](https://github.com/union-fashion/home/blob/master/api-first/index.md#teams)** - Ensuring everyone has a seat at the table.
+- **[Workspaces](https://github.com/union-fashion/home/blob/master/api-first/index.md#workspaces)** - Providing a dedicate space to do work.
+- **[Feedback](https://github.com/union-fashion/home/blob/master/api-first/index.md#feedback)** - Baking in a feedback loop by default.
+- **[Specifications](https://github.com/union-fashion/home/blob/master/api-first/index.md#specification)** - Avoid reinventing the wheel with new APIs
+- **[Definitions](https://github.com/union-fashion/home/blob/master/api-first/index.md#definitions)** - Anchoring all APIs in a machine & human readable contract.
+- **[Collections](https://github.com/union-fashion/home/blob/master/api-first/index.md#collections)** - Driving API operations using API contract(s) collections.
+- **[Examples](https://github.com/union-fashion/home/blob/master/api-first/index.md#examples)** - Providing examples of every operation in use.
+- **[Environments](https://github.com/union-fashion/home/blob/master/api-first/index.md#environments)** - Abstracting away secrets and variables.
+- **[Lifecycle](https://github.com/union-fashion/home/blob/master/api-first/index.md#lifecycle)** - Driving the API life cycle from an API contract(s).
+- **[Mocking](https://github.com/union-fashion/home/blob/master/api-first/index.md#mocking)** - Providing a simulated representation of every API.
+- **[Documentation](https://github.com/union-fashion/home/blob/master/api-first/index.md#documentation)** - Always be publish documentation for APIs.
+- **[Testing](https://github.com/union-fashion/home/blob/master/api-first/index.md#mocking)** - There is always testing coverage in place for all APIs.
+- **[Monitoring](https://github.com/union-fashion/home/blob/master/api-first/index.md#monitoring)** - All tests are run on schedule from regions using monitors.
+- **[Collaboration](https://github.com/union-fashion/home/blob/master/api-first/index.md#collaboration)** - Stakeholders are always working together on APIs.
+- **[Observability](https://github.com/union-fashion/home/blob/master/api-first/index.md#observability)** - The API life cycle is made more tangible using outputs.
 
 API-first makes Union fashion a more agile and effective organization.
 
