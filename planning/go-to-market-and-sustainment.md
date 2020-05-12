@@ -5,6 +5,9 @@ This is an outline for phase one of producing four separate services to drive Un
 - **Management**
   - **Gateway** - We are using AWS API Gateway for the management layer of our APIs.
   - **Logging** - We are using AWS CloudWatch for the logging layer of our APIs.
+- **Authorization**
+  - **3rd Party Token** - We are allowing GitHub, LinkedIn, Facebook, and Twitter auth.
+  - **API Gateway** - We exchange 3rd party tokens for AWS API gateway keys.
 - **Portal**
   - **Platform** - Publish static developer portal using GitHub Pages and Jekyll.
   - **Resources** - Provide as many resources for developers to help them get started.
