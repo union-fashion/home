@@ -13,7 +13,7 @@ This is an outline for phase one of producing four separate services to drive Un
   - **Resources** - Provide as many resources for developers to help them get started.
   - **On-Boarding** - Make it easy for developers to on-board with the APIs easily.
 - **Documentation**
-  - **Access** - Ensure all documentation is accessible to the targeted groups.
+  - **Published** - Ensure all documentation is accessible to the targeted groups.
   - **Environment** - Ensuring all environments are accessible to targeted groups.
 - **Monitors**
   - **Results** - Review and stay in tune with monitor results for each service.
@@ -21,8 +21,9 @@ This is an outline for phase one of producing four separate services to drive Un
 - **Reports**
   - **Team Overview** - Tune into what each team is working on and moving forward.
   - **Service Details** - Tune into reports for each of the individual services.
-  - **Contract Tests** - Providing current contract testing results via report.
-  - **Performance Tests** - Providing current performance testing results via report.
+  - **Contract Tests** - Providing current contract testing results via README report.
+  - **Performance Tests** - Providing current performance testing results via README report.
+  - **Security Tests** - Providing current security testing results via README report.
 - **Communication (Marketing)**
   - **Blog Post** - Publish an internal, partner, or public blog post for releases.
   - **Social** - Publish release message via internal, partner, or public social channels.
