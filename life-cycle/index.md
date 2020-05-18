@@ -112,7 +112,6 @@ This section if for managing the tagging applied to buckets.
 ### Object Tagging
 Needs a description.
 
-
 ### Logging (AWS API CloudTrail)
 These are tagging requests available for defining the logging layer underneath the operation of the API.
 
@@ -243,7 +242,7 @@ This is the tagging layer for this API, providing information about all script a
 
 
 ## Storage (AWS S3)
-This is one of the storage infrastructure opportunities that exist for Union fashion, providing heavy object storage across 
+This is one of the storage infrastructure opportunities that exist for Union fashion, providing heavy object storage across
 
 ### Buckets
 This section for managing AWS S3 buckets that are used as part of the operation of this API.
@@ -298,12 +297,11 @@ This area is for managing the pipeline behind each API, establishing a repeatabl
  - Workflows Runs
  - Workflows Jobs
 
-
-## Deploy - (AWS API Gateway)
+## [Deploy](/home/life-cycle/deployment/) - (AWS API Gateway)
 This is the portion of the life cycle for actually deployment the API, allowing for the deployment of development, production, or other stage of API to AWS using AWS API Gateway.
 
 ### Maintenance
-This section is for the maintenance of APIs being deployed as part of the API life cycle using AWS API Gateway. 
+This section is for the maintenance of APIs being deployed as part of the API life cycle using AWS API Gateway.
 
  - List all APIs - Needs a description.
  - Details of API - Needs a description.
@@ -493,7 +491,7 @@ Issues that have been submitted via GitHub and are flagged as ticket for review 
  - Close Ticket - Needs a description.
 
 ### Issues  (GitHub)
-These are GitHub issues that have been flagged to display known issues, helping make consumers aware of known issues. 
+These are GitHub issues that have been flagged to display known issues, helping make consumers aware of known issues.
 
  - All Issues - Needs a description.
  - New Issue - Needs a description.
@@ -509,7 +507,7 @@ These are the GitHub issues that have been added an and labeled as change log sh
  - Close Change Log Entry - Needs a description.
 
 ### Road Map (GitHub)
-These are the GitHub issues that have been labeled for display as part of the road map, helping share what is being planned around API development.	
+These are the GitHub issues that have been labeled for display as part of the road map, helping share what is being planned around API development.
 
  - All Road Map Items - Needs a description.
  - New Road Map Item - Needs a description.
@@ -565,4 +563,3 @@ These are some reporting actions that can be taken as part of the management of 
 
  - Publish API life cycle outline to GitHub
  - Visualize the API life cycle outline
-
