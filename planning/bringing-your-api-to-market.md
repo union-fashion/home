@@ -1,4 +1,4 @@
-# Go to Market & Sustainment
+# Bringing Your API to Market
 
 This is an outline for phase one of producing four separate services to drive Union Fashion, using an API (design) first strategy. This phase is actually about bringing services to market and supporting their actual usage. This is meant to act as a guide for the actual work, as well as conduct a webinar for enterprise customers.
 
