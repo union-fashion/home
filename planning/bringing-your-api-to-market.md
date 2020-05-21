@@ -14,10 +14,12 @@ This is an outline for phase one of producing four separate services to drive Un
   - **On-Boarding** - Make it easy for developers to on-board with the APIs easily.
 - **Documentation**
   - **Published** - Ensure all documentation is accessible to the targeted groups.
+  - **Artifacts** - Provide a wealth of artifacts that help consumers quickly use APIs.
   - **Environment** - Ensuring all environments are accessible to targeted groups.
 - **Monitors**
+  - **Scheduled** - We have ongoing monitors operating on a regular schedule.
   - **Results** - Review and stay in tune with monitor results for each service.
-  - **Service Level Agreement** - Are we meeting our service level agreement.
+  - **Service Level Agreement** - Are we meeting our service level agreement?
 - **Reports**
   - **Team Overview** - Tune into what each team is working on and moving forward.
   - **Service Details** - Tune into reports for each of the individual services.
@@ -27,7 +29,6 @@ This is an outline for phase one of producing four separate services to drive Un
 - **Communication (Marketing)**
   - **Blog Post** - Publish an internal, partner, or public blog post for releases.
   - **Social** - Publish release message via internal, partner, or public social channels.
-  - **Newsletter** - Share release information via target audience newsletter.
   - **Support** - Supporting API consumers via email and GitHub issues for the repository.
 - **Discovery**
   - **APIs.json** - Each API has an APIs.json index that is used to register it with portal(s).
